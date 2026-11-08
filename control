@@ -1,0 +1,9 @@
+Package: com.qn.notemath18
+Name: NoteMath18
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Perform calculations directly within the Notes app, just like in iOS 18
+Maintainer: Qn <qnblackcat@gmail.com>
+Author: Qn <qnblackcat@gmail.com>
+Section: Tweaks
