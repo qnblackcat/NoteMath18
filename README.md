@@ -71,4 +71,4 @@ make clean package FINALPACKAGE=1 THEOS_PACKAGE_SCHEME=roothide
 
 ## License
 
-NoteMath18 is licensed under the GNU General Public License, version 3 only. See [LICENSE](LICENSE) for the complete license text.
+NoteMath18 is licensed under the GNU General Public License, version 3 only. See [LICENSE](LICENSE).
